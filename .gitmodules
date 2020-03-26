@@ -1,0 +1,3 @@
+[submodule "Automatic-hand-sanitizer-arduino"]
+	path = Automatic-hand-sanitizer-arduino
+	url = https://github.com/Diallomm/Automatic-hand-sanitizer-arduino.git
